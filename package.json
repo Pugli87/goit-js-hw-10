@@ -1,7 +1,7 @@
 {
   "name": "goit.js-hw-10",
   "version": "2.0.0",
-  "description": "",
+  "description": "Tarea 5",
   "homepage": "https://pugli87.github.io/goit-js-hw-10",
   "scripts": {
     "start": "parcel src/*.html",
@@ -18,7 +18,9 @@
     "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
-    "modern-normalize": "^1.1.0"
+    "caniuse-lite": "^1.0.30001492",
+    "modern-normalize": "^1.1.0",
+    "notiflix": "^3.2.6"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
