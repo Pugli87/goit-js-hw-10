@@ -1,5 +1,5 @@
 {
-  "name": "goit.js-hw-10",
+  "name": "goit-js-hw-10",
   "version": "2.0.0",
   "description": "Tarea 5",
   "homepage": "https://pugli87.github.io/goit-js-hw-10",
@@ -19,12 +19,7 @@
   },
   "dependencies": {
     "caniuse-lite": "^1.0.30001492",
-<<<<<<< HEAD
-    "modern-normalize": "^1.1.0",
-    "notiflix": "^3.2.6"
-=======
     "modern-normalize": "^1.1.0"
->>>>>>> ba71fbcdc27b16da5aeab932f31da5ead34328ab
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
