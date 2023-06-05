@@ -68,9 +68,8 @@ body{
     padding: 5px;
     border-radius: 10px;
     opacity: 0.5;
+    font-size: medium;
 }
-
-.breed-select option{}
 
 .cat-info{
     margin-left: 20px;
